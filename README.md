@@ -1,7 +1,7 @@
 # Microfrontends
 
 Simple app to understand how microfrontends work.
-This project is devided in 3 parts.
+This project is devided in 3 parts. 
 
 * Container - this part is responsable to render the two other MFEs using the `ModuleFederationPlugin` plugin.
 
